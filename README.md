@@ -13,6 +13,16 @@
 - Medicare Part D Opioid Prescriber Summary File 2017 from [CMS](https://data.cms.gov/Medicare-Part-D/Medicare-Part-D-Opioid-Prescriber-Summary-File-201/sakz-a2rp)
 - Python, Jupyter Notebook, Pandas, Matplotlib, and Google APIs
 
+## Visualizations
+- Stacked bar graph and line graph of opioid-related deaths per 100k population by age group per year (2009-2018)
+- Percent change in opioid deaths by age group (2009-2018)
+- Heat map showing the % of opioid-related deaths for 55+ in the United States (2009-2018)
+- Top five states with highest number of 55+ opioid deaths per 100k
+- Choropleth map showing the number of top opioid prescribers for Part D population by state (2017)
+- Top opioid prescribing specialties defined by % of opioid Rx
+- Linear regression between % of opioid-related deaths and % of opioid Rx
+- Linear regression between opioid-related deaths per 100K and % of opioid Rx
+
 ## Findings and Takeaways
 - Overall, the number of opioid prescriptions are decreasing but opioid deaths are increasing.
 - The greatest increase in percentage of opioid-related deaths is found in the 55+ population.
